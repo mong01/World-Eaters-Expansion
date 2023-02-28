@@ -3,8 +3,8 @@ Contains an expansion for world eaters, containing rules for some new units to f
 New units are:
 WE Chaos Lord
 WE Chaos Lord in Terminator Armour
-Skullcrushers (technically age of sigmar but why the hell is there a chaos lord on a juggernaut and no generic unit on juggernauts, it's doesn't FUCKING MAKE SE-)
-Slaughterbrute (also technically age of sigmar but sons get the mutalith, same model kit so whatever)
+Skullcrushers
+Slaughterbrute
 Mutilators
 
 If you discover a bug, inconsistency or etc., click on the Issues tab, then New Issue. Describe your problem clearly and concisely and I'll fix it as soon as. You could also give me some criticism or give any ideas for this stuff.
